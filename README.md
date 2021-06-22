@@ -1,6 +1,6 @@
 ## Intro
 
-This repository have all the related work of the university's course "Perceptional Systems", wich is deals with Data Science related topics.
+This repository have all the related work of the university's course "Perceptional Systems", wich deals with Data Science related topics.
 The subject was taught in 2021 in Nova School of Science by Prof. José Fonseca.
 
 
