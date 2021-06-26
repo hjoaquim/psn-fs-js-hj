@@ -15,3 +15,9 @@ The subject was taught in 2021 in Nova School of Science and Technology by Prof.
 * **a5** - Decision Trees
 * **a6** - Neural Networks
 * **projeto-final** - Brief study about Portugal counties culture related features
+
+
+### Developed by:
+* Filipa Santos
+* Henrique Joaquim
+* João Silva
